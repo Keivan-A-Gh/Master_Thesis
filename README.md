@@ -23,3 +23,4 @@ This repository contains 2 main folders:
 
 ## Citation
 If you want to refer to this project or its corresponding implemented utilities, please cite the following work:
+  - [![DOI](https://zenodo.org/badge/411550302.svg)](https://zenodo.org/badge/latestdoi/411550302)
